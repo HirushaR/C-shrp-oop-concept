@@ -1,0 +1,11 @@
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\bin\Debug\netcoreapp2.1\stifi1.deps.json
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\bin\Debug\netcoreapp2.1\stifi1.runtimeconfig.json
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\bin\Debug\netcoreapp2.1\stifi1.runtimeconfig.dev.json
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\bin\Debug\netcoreapp2.1\stifi1.dll
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\bin\Debug\netcoreapp2.1\stifi1.pdb
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.csprojAssemblyReference.cache
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.csproj.CoreCompileInputs.cache
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.AssemblyInfoInputs.cache
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.AssemblyInfo.cs
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.dll
+C:\Users\Danuja Fernando\source\repos\stifi1\stifi1\obj\Debug\netcoreapp2.1\stifi1.pdb

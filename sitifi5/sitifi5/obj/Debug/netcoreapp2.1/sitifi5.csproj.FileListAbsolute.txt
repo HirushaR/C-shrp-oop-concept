@@ -1,0 +1,10 @@
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\bin\Debug\netcoreapp2.1\sitifi5.deps.json
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\bin\Debug\netcoreapp2.1\sitifi5.runtimeconfig.json
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\bin\Debug\netcoreapp2.1\sitifi5.runtimeconfig.dev.json
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\bin\Debug\netcoreapp2.1\sitifi5.dll
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\bin\Debug\netcoreapp2.1\sitifi5.pdb
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\obj\Debug\netcoreapp2.1\sitifi5.csproj.CoreCompileInputs.cache
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\obj\Debug\netcoreapp2.1\sitifi5.AssemblyInfoInputs.cache
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\obj\Debug\netcoreapp2.1\sitifi5.AssemblyInfo.cs
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\obj\Debug\netcoreapp2.1\sitifi5.dll
+C:\Users\Danuja Fernando\source\repos\sitifi5\sitifi5\obj\Debug\netcoreapp2.1\sitifi5.pdb
