@@ -19,4 +19,5 @@ this is parent and child class
 use methods overridding and overloding			
 
 ```Abstraction```		
-use same method to do differnt things
+use same method to do differnt things		
+use abstrac method
