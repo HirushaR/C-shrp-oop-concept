@@ -10,8 +10,7 @@ namespace stifi1
         public void setval(int x , int y)
         {
             val1 = x;
-            val2 = y;
-           
+            val2 = y;           
         }
         
         public int getval()

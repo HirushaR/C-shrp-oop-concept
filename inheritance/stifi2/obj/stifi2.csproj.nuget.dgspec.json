@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi2\\stifi2\\stifi2.csproj": {}
+    "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\inheritance\\stifi2\\stifi2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi2\\stifi2\\stifi2.csproj": {
+    "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\inheritance\\stifi2\\stifi2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi2\\stifi2\\stifi2.csproj",
+        "projectUniqueName": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\inheritance\\stifi2\\stifi2.csproj",
         "projectName": "stifi2",
-        "projectPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi2\\stifi2\\stifi2.csproj",
+        "projectPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\inheritance\\stifi2\\stifi2.csproj",
         "packagesPath": "C:\\Users\\Danuja Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi2\\stifi2\\obj\\",
+        "outputPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\inheritance\\stifi2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

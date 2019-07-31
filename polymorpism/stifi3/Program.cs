@@ -9,6 +9,7 @@ namespace stifi3
             poly py = new poly();
             py.get(3);
             py.get();
+            py.get("sdf");
 
             Console.ReadLine();
         }

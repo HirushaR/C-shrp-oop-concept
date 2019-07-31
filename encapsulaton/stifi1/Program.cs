@@ -15,7 +15,6 @@ namespace stifi1
 
             Encap1 en = new Encap1();
             en.setval(a , b);
-            
             Console.WriteLine("" + en.getval());
 
         }

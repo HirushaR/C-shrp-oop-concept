@@ -6,7 +6,8 @@ namespace sitifi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            animal an = new animal(10);
+            
         }
     }
 }
