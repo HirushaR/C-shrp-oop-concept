@@ -1,0 +1,10 @@
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\bin\Debug\netcoreapp2.1\static-polymophism.deps.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\bin\Debug\netcoreapp2.1\static-polymophism.runtimeconfig.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\bin\Debug\netcoreapp2.1\static-polymophism.runtimeconfig.dev.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\bin\Debug\netcoreapp2.1\static-polymophism.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\bin\Debug\netcoreapp2.1\static-polymophism.pdb
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\obj\Debug\netcoreapp2.1\static-polymophism.csproj.CoreCompileInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\obj\Debug\netcoreapp2.1\static-polymophism.AssemblyInfoInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\obj\Debug\netcoreapp2.1\static-polymophism.AssemblyInfo.cs
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\obj\Debug\netcoreapp2.1\static-polymophism.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\static-polymophism\static-polymophism\obj\Debug\netcoreapp2.1\static-polymophism.pdb

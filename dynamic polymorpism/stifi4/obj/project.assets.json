@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi4\\stifi4\\stifi4.csproj",
+      "projectUniqueName": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\dynamic polymorpism\\stifi4\\stifi4.csproj",
       "projectName": "stifi4",
-      "projectPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi4\\stifi4\\stifi4.csproj",
+      "projectPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\dynamic polymorpism\\stifi4\\stifi4.csproj",
       "packagesPath": "C:\\Users\\Danuja Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\stifi4\\stifi4\\obj\\",
+      "outputPath": "C:\\Users\\Danuja Fernando\\source\\repos\\New folder\\C-shrp-oop-concept\\dynamic polymorpism\\stifi4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

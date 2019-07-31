@@ -1,0 +1,11 @@
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\bin\Debug\netcoreapp2.1\sitifi.deps.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\bin\Debug\netcoreapp2.1\sitifi.runtimeconfig.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\bin\Debug\netcoreapp2.1\sitifi.runtimeconfig.dev.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\bin\Debug\netcoreapp2.1\sitifi.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\bin\Debug\netcoreapp2.1\sitifi.pdb
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.csprojAssemblyReference.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.csproj.CoreCompileInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.AssemblyInfoInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.AssemblyInfo.cs
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\sitifi\sitifi\obj\Debug\netcoreapp2.1\sitifi.pdb

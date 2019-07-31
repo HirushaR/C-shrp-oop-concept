@@ -10,7 +10,11 @@ namespace stifi3
         {
             Console.WriteLine("first one");
         }
-        public void get(int a)
+        public void get(int abc)
+        {
+            Console.WriteLine("" + a);
+        }
+        public void get(string sss)
         {
             Console.WriteLine("" + a);
         }

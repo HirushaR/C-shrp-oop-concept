@@ -8,3 +8,13 @@ C:\Users\Danuja Fernando\source\repos\stifi4\stifi4\obj\Debug\netcoreapp2.1\stif
 C:\Users\Danuja Fernando\source\repos\stifi4\stifi4\obj\Debug\netcoreapp2.1\stifi4.AssemblyInfo.cs
 C:\Users\Danuja Fernando\source\repos\stifi4\stifi4\obj\Debug\netcoreapp2.1\stifi4.dll
 C:\Users\Danuja Fernando\source\repos\stifi4\stifi4\obj\Debug\netcoreapp2.1\stifi4.pdb
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\bin\Debug\netcoreapp2.1\stifi4.deps.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\bin\Debug\netcoreapp2.1\stifi4.runtimeconfig.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\bin\Debug\netcoreapp2.1\stifi4.runtimeconfig.dev.json
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\bin\Debug\netcoreapp2.1\stifi4.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\bin\Debug\netcoreapp2.1\stifi4.pdb
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\obj\Debug\netcoreapp2.1\stifi4.csproj.CoreCompileInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\obj\Debug\netcoreapp2.1\stifi4.AssemblyInfoInputs.cache
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\obj\Debug\netcoreapp2.1\stifi4.AssemblyInfo.cs
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\obj\Debug\netcoreapp2.1\stifi4.dll
+C:\Users\Danuja Fernando\source\repos\New folder\C-shrp-oop-concept\dynamic polymorpism\stifi4\obj\Debug\netcoreapp2.1\stifi4.pdb
